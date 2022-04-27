@@ -1,0 +1,24 @@
+I created this websites:
+
+http://znebo.kz/ - stretch ceiling firm
+Used: php, css, and jquery.
+
+http://com-fort.kz/ - chandelier shop
+Used: php, css, and jquery.
+
+https://карандаш.kz/ - stationery shop
+Used: OpenCart framework.
+
+http://bulletinofscience.kazatu.edu.kz/ - magazine «Bulletin of Science of the S.Seifullin Kazakh Agrotechnical University»
+Used: Open Journal systems framework.
+
+I have technical support this site:
+https://kazatu.edu.kz/ - S.Seifullin Kazakh Agro Technical University
+Used: CakePHP framework. 
+
+I have access to all this sites. 
+
+Vue.js example 1 https://codepen.io/aynkz/pen/VwMQQjj
+Vue.js example 2 apexchart  https://codepen.io/aynkz/pen/PoJxgJm
+
+I worked with javascript inside 1C Bitrix systems and in company www.kmge.kz If you need more evidence, you can give me test task.
